@@ -1,2 +1,4 @@
 # test
-class t
+class test
+
+Test repository for lecture one of MPM
